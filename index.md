@@ -28,6 +28,7 @@ Human Lives are but un-solved sequences, but of-course we want AI to learn them 
 - [Attention and Memory in Deep Learning : deepMind google](https://www.youtube.com/watch?v=Q57rzaHHO0k)
 - [Attention Paper Review](https://www.youtube.com/watch?v=iDulhoQ2pro)
 - [Bert Explained](https://www.youtube.com/watch?v=0EtD5ybnh_s)
+- [Bert | TDLS](https://www.youtube.com/watch?v=BhlOGGzC0Q0)
 
 ##### Graphs
 
@@ -58,6 +59,7 @@ Human Lives are but un-solved sequences, but of-course we want AI to learn them 
 
 ### Long Short Term Memory 
 - [Original Lstm Tutorial - Jurgen Schmidhuber](http://people.idsia.ch/~juergen/lstm/)
+- [Understanding Lstms](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Lstm in Numpy from Scratch](https://blog.varunajayasiri.com/numpy_lstm.html)
 - [Pytorch Lstm Beginner](https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html)
 - [Pytorch Lstm Seq2Seq](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
