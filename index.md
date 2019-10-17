@@ -1,12 +1,54 @@
 # Learning Sequential Data 
 
 ## Overview 
-x 
+Human Lives are but un-solved sequences, but of-course we want AI to learn them ! 
+
 ## Outline
+### Previous Talks 
+- Spring 2019 : [Sequences and Language Models](https://docs.google.com/presentation/d/1P9yYs8fx3b-Ps0WDhrCSzQvL071u4Gx6k-kFr2-fg8c/edit?usp=sharing)
+- Fall 2019 : [Graphs and Stuff](https://docs.google.com/presentation/d/1wIqxtu28Pbeg1NjwxnCl1fkOQOnJVY7PSXhosy5ZJPY/edit?usp=sharing)
+
+#### Resources
+
+##### Attention and Language Models
+- [Transformers : Attention is all you need](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) 
+- [Lil's Log: Attention ](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) 
+- [The Annotated Transformer ](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- [Pretraining Language Models](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- [Pytorch Transformer Tutorial](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)
+
+##### Graphs 
+Papers
+- [Graphs Survey 1](https://arxiv.org/pdf/1812.04202.pdf) 
+- [Graphs Survey 2](https://arxiv.org/pdf/1901.00596.pdf) 
+- [Graphs Survey 3](https://arxiv.org/pdf/1705.02801.pdf) 
+- [Representation Learning on Graphs: Methods and Applications](https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf)
+Blogs n Tutorials
+- [Graph Convolution Neural Network](https://tkipf.github.io/graph-convolutional-networks/) 
+- Stanford Network Representations 
+	- [What is network representation learning and why is it important?](http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part0-intro.pdf)
+	- [Learning low-dimensional embeddings of nodes in complex networks (e.g., DeepWalk and node2vec).](http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part1-embeddings.pdf)
+	- [Techniques for deep learning on network/graph structed data (e.g., graph convolutional networks and GraphSAGE).](http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part2-gnns.pdf)
+	- [Applications of network representation learning for recommender systems and computational biology.](http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part3-applications.pdf)
+
+- 
+Frameworks 
+- [Deep Graph Library](https://www.dgl.ai/) 
+- [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) 
+
+### Recurrent Neural Nets 
+[Original Recurrent Net](https://web.stanford.edu/class/psych209a/ReadingsByDate/02_25/Williams%20Zipser95RecNets.pdf)
+[RNN in Numpy and Passage Generation](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+[Pytorch RNN Beginner 1](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html)
+[Pytorch RNN Beginner 2](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)
+### Long Short Term Memory 
+[Original Lstm Tutorial - Jurgen Schmidhuber](http://people.idsia.ch/~juergen/lstm/)
+[Lstm in Numpy from Scratch](https://blog.varunajayasiri.com/numpy_lstm.html)
+[Pytorch Lstm Beginner](https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html)
+[Pytorch LStm Seq2Seq](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+
 ### Language Models
 ### ngarm model 
 ### Word Vectors 
-### Recurrent Neural Nets 
-### Long Short Term Memory 
 
 ## Conclusion
