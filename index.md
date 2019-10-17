@@ -76,4 +76,3 @@ Human Lives are but un-solved sequences, but of-course we want AI to learn them 
 - [ELMO - Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf)
 - [COVE; Learned in Translation: Contextualized Word Vectors](https://arxiv.org/pdf/1708.00107.pdf)
 
-## Conclusion
