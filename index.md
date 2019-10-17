@@ -11,14 +11,27 @@ Human Lives are but un-solved sequences, but of-course we want AI to learn them 
 #### Resources
 
 ##### Attention and Language Models
+###### Papers
 - [Transformers : Attention is all you need](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) 
-- [Lil's Log: Attention ](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) 
 - [The Annotated Transformer ](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [Pretraining Language Models](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
-- [Pytorch Transformer Tutorial](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
-##### Graphs 
-Papers
+###### Blogs n Tutorials
+- [Understanding Attention Mechanism](https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f)
+- [Lil's Log: Attention ](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) 
+- [Pytorch Transformer Tutorial](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)
+- [Attention Mechanism n Memory Networks : skymind.ai](https://skymind.ai/wiki/attention-mechanism-memory-network)
+
+###### Vids
+- [Attention Model : deeplearning.ai](https://www.youtube.com/watch?v=quoGRI-1l0A)
+- [Attention and Memory in Deep Learning : deepMind google](https://www.youtube.com/watch?v=Q57rzaHHO0k)
+- [Attention Paper Review](https://www.youtube.com/watch?v=iDulhoQ2pro)
+- [Bert Explained](https://www.youtube.com/watch?v=0EtD5ybnh_s)
+
+##### Graphs
+
+###### Papers
 - [Graphs Survey 1](https://arxiv.org/pdf/1812.04202.pdf) 
 - [Graphs Survey 2](https://arxiv.org/pdf/1901.00596.pdf) 
 - [Graphs Survey 3](https://arxiv.org/pdf/1705.02801.pdf) 
@@ -60,5 +73,7 @@ Papers
 - [Word Embedding Applications](https://hackernoon.com/word-embeddings-in-nlp-and-its-applications-fab15eaf7430)
 - [Word2vec using Gensim - Tutorial](https://www.guru99.com/word-embedding-word2vec.html)
 - [How to use Pre-Trained Word2vec Embeddings in Pytorch](https://medium.com/@martinpella/how-to-use-pre-trained-word-embeddings-in-pytorch-71ca59249f76)
+- [ELMO - Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf)
+- [COVE; Learned in Translation: Contextualized Word Vectors](https://arxiv.org/pdf/1708.00107.pdf)
 
 ## Conclusion
