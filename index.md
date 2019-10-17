@@ -23,7 +23,8 @@ Papers
 - [Graphs Survey 2](https://arxiv.org/pdf/1901.00596.pdf) 
 - [Graphs Survey 3](https://arxiv.org/pdf/1705.02801.pdf) 
 - [Representation Learning on Graphs: Methods and Applications](https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf)
-Blogs n Tutorials
+
+###### Blogs n Tutorials
 - [Graph Convolution Neural Network](https://tkipf.github.io/graph-convolutional-networks/) 
 - Stanford Network Representations 
 	- [What is network representation learning and why is it important?](http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part0-intro.pdf)
@@ -31,24 +32,33 @@ Blogs n Tutorials
 	- [Techniques for deep learning on network/graph structed data (e.g., graph convolutional networks and GraphSAGE).](http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part2-gnns.pdf)
 	- [Applications of network representation learning for recommender systems and computational biology.](http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part3-applications.pdf)
 
-- 
-Frameworks 
+ 
+###### Frameworks 
 - [Deep Graph Library](https://www.dgl.ai/) 
 - [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) 
 
 ### Recurrent Neural Nets 
-[Original Recurrent Net](https://web.stanford.edu/class/psych209a/ReadingsByDate/02_25/Williams%20Zipser95RecNets.pdf)
-[RNN in Numpy and Passage Generation](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-[Pytorch RNN Beginner 1](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html)
-[Pytorch RNN Beginner 2](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)
+- [Original Recurrent Net](https://web.stanford.edu/class/psych209a/ReadingsByDate/02_25/Williams%20Zipser95RecNets.pdf)
+- [RNN in Numpy and Passage Generation](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [Pytorch RNN Beginner 1](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html)
+- [Pytorch RNN Beginner 2](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)
+
 ### Long Short Term Memory 
-[Original Lstm Tutorial - Jurgen Schmidhuber](http://people.idsia.ch/~juergen/lstm/)
-[Lstm in Numpy from Scratch](https://blog.varunajayasiri.com/numpy_lstm.html)
-[Pytorch Lstm Beginner](https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html)
-[Pytorch LStm Seq2Seq](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+- [Original Lstm Tutorial - Jurgen Schmidhuber](http://people.idsia.ch/~juergen/lstm/)
+- [Lstm in Numpy from Scratch](https://blog.varunajayasiri.com/numpy_lstm.html)
+- [Pytorch Lstm Beginner](https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html)
+- [Pytorch Lstm Seq2Seq](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
 ### Language Models
-### ngarm model 
+- [Computational Linguistics Cheat Sheet](https://github.com/crazysal/computational-linguistics/tree/master/cheatSheatsProlog) 
+
 ### Word Vectors 
+- [Word2vec - Original Paper](https://arxiv.org/pdf/1301.3781.pdf)
+- [Training Millions of Embedding Model](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) 
+- [What are word embeddings](https://machinelearningmastery.com/what-are-word-embeddings/)
+- [Understanding word2vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
+- [Word Embedding Applications](https://hackernoon.com/word-embeddings-in-nlp-and-its-applications-fab15eaf7430)
+- [Word2vec using Gensim - Tutorial](https://www.guru99.com/word-embedding-word2vec.html)
+- [How to use Pre-Trained Word2vec Embeddings in Pytorch](https://medium.com/@martinpella/how-to-use-pre-trained-word-embeddings-in-pytorch-71ca59249f76)
 
 ## Conclusion
