@@ -37,6 +37,7 @@ Human Lives are but un-solved sequences, but of-course we want AI to learn them 
 - [Graphs Survey 2](https://arxiv.org/pdf/1901.00596.pdf) 
 - [Graphs Survey 3](https://arxiv.org/pdf/1705.02801.pdf) 
 - [Representation Learning on Graphs: Methods and Applications](https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf)
+- [More Graph papers](https://github.com/crazysal/graphs)
 
 ###### Blogs n Tutorials
 - [Graph Convolution Neural Network](https://tkipf.github.io/graph-convolutional-networks/) 
@@ -46,7 +47,8 @@ Human Lives are but un-solved sequences, but of-course we want AI to learn them 
 	- [Techniques for deep learning on network/graph structed data (e.g., graph convolutional networks and GraphSAGE).](http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part2-gnns.pdf)
 	- [Applications of network representation learning for recommender systems and computational biology.](http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part3-applications.pdf)
 
- 
+###### Vids
+- [Microsoft Research graph Neural nets](https://www.youtube.com/watch?v=cWIeTMklzNg) 
 ###### Frameworks 
 - [Deep Graph Library](https://www.dgl.ai/) 
 - [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) 
